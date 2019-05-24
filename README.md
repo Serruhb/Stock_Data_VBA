@@ -26,7 +26,7 @@
 ## 2016
 ![moderatesolution_2016](https://user-images.githubusercontent.com/50157566/58297242-a352e600-7d9c-11e9-9101-4fb37f86dbce.png)
 ## 2015
-![moderatesolution_2015](https://user-images.githubusercontent.com/50157566/58297240-a352e600-7d9c-11e9-87ea-f1c841e0b661.png)
+![moderatesolution_2015(1)](https://user-images.githubusercontent.com/50157566/58300734-6a6d3e00-7da9-11e9-90f1-8e1d95de291d.png)
 ## 2014
 ![moderatesolution_2014](https://user-images.githubusercontent.com/50157566/58297238-a352e600-7d9c-11e9-904b-782d7289ece0.png)
 
