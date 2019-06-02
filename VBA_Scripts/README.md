@@ -1,5 +1,6 @@
 #Easy VBA Script
-```Sub easySolution()
+```visualbasic
+Sub easySolution()
 
     Dim lastRow As Long
     Dim currRow As Integer
@@ -28,11 +29,13 @@
             End If
         Next i
     Next ws
-End Sub```
+End Sub 
+```
 
-#Moderate VBA Script
+# Moderate VBA Script
 
-```Sub moderateSolution()
+```visualbasic
+Sub moderateSolution()
 
 
 
@@ -95,11 +98,13 @@ End Sub```
         lastRow2 = ws.Cells(Rows.count, 9).End(xlUp).Row
         ws.Range("K2:K" & lastRow2).NumberFormat = "0.00%"
     Next ws
-End Sub```
+End Sub
+```
 
-#Hard VBA SCript
+# Hard VBA SCript
 
-```Sub hardSolution()
+```visualbasic
+Sub hardSolution()
 
     Dim lastRow As Long
     Dim lastRow2 As Long
@@ -186,4 +191,5 @@ End Sub```
         
     Next ws
 
-End Sub```
+End Sub
+```
